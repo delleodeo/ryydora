@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="RYDORA tricycle mark">
+  <rect width="128" height="128" rx="30" fill="#047857"/>
+  <path fill="#ecfdf5" d="M29 75a17 17 0 1 0 34 0 17 17 0 0 0-34 0Zm9 0a8 8 0 1 1 16 0 8 8 0 0 1-16 0Zm42 0a17 17 0 1 0 34 0 17 17 0 0 0-34 0Zm9 0a8 8 0 1 1 16 0 8 8 0 0 1-16 0Z"/>
+  <path fill="#a7f3d0" d="M49 40h34c9 0 16 7 16 16v4H75L64 75H53l12-24H49a6 6 0 0 1 0-11Zm31 11H68l-4 9h16v-9Z"/>
+  <path fill="#ecfdf5" d="M30 59h29l-5 10H30a5 5 0 1 1 0-10Z"/>
+</svg>
+
